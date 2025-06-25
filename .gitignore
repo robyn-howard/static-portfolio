@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+
+# IDE Configuration Files
+.vscode/
+
+# Node.js / npm related files
+node_modules/
+npm-debug.log*
+.env
+package-lock.json
+
+# Build or distribution folders (just in case)
+/dist/
+/build/
